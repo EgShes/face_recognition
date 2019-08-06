@@ -1,4 +1,4 @@
-# face_detection
+# face_recognition
 Some expirements on face recognition
 
 5 celebrity dataset was taken from [here](https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset)
